@@ -78,6 +78,11 @@ export default function Footer() {
               {'Санкт-Петербург'}
             </p>
           </div>
+          <div className="mt-6 text-center">
+            <p className="text-[10px] tracking-[0.15em] text-muted-foreground">
+              {'Сделано devbymax'}
+            </p>
+          </div>
         </div>
       </div>
     </footer>
